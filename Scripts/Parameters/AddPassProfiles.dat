@@ -1,4 +1,5 @@
 login,password,firstName,lastName,address1,address2,cardNum,cardExpDate
+jojo,bean,Jojo,Bean,Denver,123456,1234123412341234,01/25
 bobo,jean,Bobo,Jean,Paris,234567,2345234523452345,02/26
 dodo,mean,Dodo,Mean,Seattle,345678,3456345634563456,03/27
 momo,dean,Momo,Dean,Zurich,456789,4567456745674567,04/28
